@@ -1,0 +1,27 @@
+/* ProfileCard.module.css */
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .age {
+    font-size: 1.1rem;
+    color: #666;
+  }
+  
+  .location {
+    font-size: 1rem;
+    color: #007bff;
+  }
+  
